@@ -1,0 +1,16 @@
+PODS:
+  - JVCAGradientLayerExtensions (0.1.0)
+
+DEPENDENCIES:
+  - JVCAGradientLayerExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  JVCAGradientLayerExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVCAGradientLayerExtensions: a3940620888d922414b0e3be48351d96b3a82d73
+
+PODFILE CHECKSUM: 06e529b58272a9b734bad7b98cc52d3695e15d27
+
+COCOAPODS: 1.6.0.beta.1

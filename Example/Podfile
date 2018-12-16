@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVCAGradientLayerExtensions_Tests' do
+  pod 'JVCAGradientLayerExtensions', :path => '../'
+  
+  
+end
